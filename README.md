@@ -10,6 +10,17 @@ Description of the repo:
 
 A **dynamical system** is a mathematical framework used to describe the evolution of a system over time. It comprises a set of rules or equations that govern how the state of the system changes in response to time or other inputs.
 
+A dynamical system can be represented mathematically as:
+
+\[
+\frac{d\mathbf{x}}{dt} = \mathbf{f}(\mathbf{x}, t)
+\]
+
+- \( \mathbf{x} \in \mathbb{R}^n \): State vector representing the system's state.
+- \( t \): Time variable.
+- \( \mathbf{f} \): Function defining the dynamics of the system, which may depend on the current state \( \mathbf{x} \) and possibly time \( t \).
+
+
 ## Components
 
 1. **State Space**: 
