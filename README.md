@@ -62,3 +62,8 @@ A dynamical system can be represented mathematically as:
 
 4. **Phase Portraits**: 
    - Visual representations of trajectories in the state space, illustrating how the system evolves over time.
+
+
+# Methods
+
+1) Neural Ordinary Differential Equations (NeuralODE)
